@@ -1,0 +1,27 @@
+[
+  {
+    "name":"Democratic Party",
+    "eV": 280,
+    "color":"#0000EE",
+    "rank": 1
+  },
+  {
+    "name":"Republican Party",
+    "eV": 150,
+    "color":"#EE0000",
+    "rank": 2
+  },
+  {
+    "name":"Libertarian Party",
+    "eV": 78,
+    "color":"#EEEE00",
+    "rank": 3
+  },
+  {
+    "name":"Green Party",
+    "eV": 30,
+    "color":"#00EE00",
+    "rank": 4
+  }
+
+]

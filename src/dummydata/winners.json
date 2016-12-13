@@ -1,0 +1,19 @@
+{"schema":["#","Name","Popular Vote %", "Electoral Votes"],
+  "elements":[{
+    "#":1,
+    "Name": "George W. Bush",
+    "PopV": 0.479,
+    "eV": 271
+  },{
+    "#":2,
+    "Name": "Barack Obama",
+    "PopV": 0.529,
+    "eV": 365
+  },{
+    "#":3,
+    "Name": "Donald J. Trump",
+    "PopV": 0.461,
+    "eV": 306
+    }
+  ]
+}

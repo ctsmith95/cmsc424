@@ -1,0 +1,451 @@
+{
+  "Alabama": {
+    "candidates": [
+      {"name":"C1",
+       "pV":0.5,
+       "eV":99,
+       "color":"#EE0000"}
+    ]
+  },
+"Alaska":{
+  "stateName":"Alaska",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Arizona":{
+  "stateName":"Arizona",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Arkansas":{
+  "stateName":"Arkansas",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"California":{
+  "stateName":"California",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"Colorado":{
+  "stateName":"Colorado",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"Connecticut":{
+  "stateName":"Connecticut",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"Delaware":{
+  "stateName":"Delaware",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"Florida":{
+  "stateName":"Florida",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Georgia":{
+  "stateName":"Georgia",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Hawaii":{
+  "stateName":"Hawaii",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"Idaho":{
+  "stateName":"Idaho",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Illinois":{
+  "stateName":"Illinois",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"Indiana":{
+  "stateName":"Indiana",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Iowa":{
+  "stateName":"Iowa",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Kansas":{
+  "stateName":"Kansas",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Kentucky":{
+  "stateName":"Kentucky",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Louisiana":{
+  "stateName":"Louisiana",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Maine":{
+  "stateName":"Maine",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"Maryland":{
+  "stateName":"Maryland",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"Massachusetts":{
+  "stateName":"Massachusetts",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"Michigan":{
+  "stateName":"Michigan",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Minnesota":{
+  "stateName":"Minnesota",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"Mississippi":{
+  "stateName":"Mississippi",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Missouri":{
+  "stateName":"Missouri",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Montana":{
+  "stateName":"Montana",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Nebraska":{
+  "stateName":"Nebraska",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Nevada":{
+  "stateName":"Nevada",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"New Hampshire":{
+  "stateName":"New Hampshire",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"New Jersey":{
+  "stateName":"New Jersey",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"New Mexico":{
+  "stateName":"New Mexico",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"New York":{
+  "stateName":"New York",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"North Carolina":{
+  "stateName":"North Carolina",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"North Dakota":{
+  "stateName":"North Dakota",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Ohio":{
+  "stateName":"Ohio",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Oklahoma":{
+  "stateName":"Oklahoma",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Oregon":{
+  "stateName":"Oregon",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"Pennsylvania":{
+  "stateName":"Pennsylvania",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Rhode Island":{
+  "stateName":"Rhode Island",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"South Carolina":{
+  "stateName":"South Carolina",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"South Dakota":{
+  "stateName":"South Dakota",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Tennessee":{
+  "stateName":"Tennessee",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Texas":{
+  "stateName":"Texas",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Utah":{
+  "stateName":"Utah",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Vermont":{
+  "stateName":"Vermont",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"Virginia":{
+  "stateName":"Virginia",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"Washington":{
+  "stateName":"Washington",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#0000EE"}
+  ]
+},
+"West Virginia":{
+  "stateName":"West Virginia",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Wisconsin":{
+  "stateName":"Wisonsin",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+},
+"Wyoming":{
+  "stateName":"Wyoming",
+  "candidates": [
+    {"name":"C1",
+     "pV":0.5,
+     "eV":99,
+     "color":"#EE0000"}
+  ]
+}
+}
